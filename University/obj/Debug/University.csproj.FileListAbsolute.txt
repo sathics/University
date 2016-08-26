@@ -1,0 +1,6 @@
+C:\Users\Dolar\Desktop\Web Project\University\University\bin\University.dll.config
+C:\Users\Dolar\Desktop\Web Project\University\University\bin\University.dll
+C:\Users\Dolar\Desktop\Web Project\University\University\bin\University.pdb
+C:\Users\Dolar\Desktop\Web Project\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+C:\Users\Dolar\Desktop\Web Project\University\University\obj\Debug\University.dll
+C:\Users\Dolar\Desktop\Web Project\University\University\obj\Debug\University.pdb
